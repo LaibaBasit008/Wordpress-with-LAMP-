@@ -82,8 +82,10 @@ sudo find /var/www/wordpress/ -type f -exec chmod 640 {} \;
 
 <h2>Install WP</h2>
 <p>Set Language</p>
-<img src="lang.PNG"/>
+<img src="Lang.PNG"/>
 <p>Set username, email and password</p>
 <img src="wp.PNG"/>
 <p>Login using above username and password. Edit Site using dashboard</p>
 <img src="dashboard.PNG"/>
+<p>Refresh url now it will contain your WP Site</p>
+<img src="wps.PNG"/>
